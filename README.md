@@ -1,5 +1,3 @@
-<p align="center"><img src="priv/static/logo.png" width="480" alt="VICommunity.xyz, an unofficial PC port tracker"></p>
-
 Notes
 -----
 
