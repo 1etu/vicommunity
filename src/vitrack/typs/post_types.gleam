@@ -1,0 +1,1 @@
+pub type Post { Post(id: Int, title: String, body: String, score: Int, comments: Int, age: Int, deleted: Bool, user_id: Int, login: String, github_id: Int, voted: Bool, pinned: Bool, locked: Bool, banned: Bool) }

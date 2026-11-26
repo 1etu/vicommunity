@@ -1,0 +1,7 @@
+*.beam
+*.ez
+/build
+/data
+.env
+erl_crash.dump
+/.claude

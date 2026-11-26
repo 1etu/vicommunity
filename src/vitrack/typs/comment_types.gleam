@@ -1,0 +1,1 @@
+pub type Comment { Comment(id: Int, post_id: Int, parent_id: Int, depth: Int, body: String, score: Int, age: Int, deleted: Bool, user_id: Int, login: String, github_id: Int, vote: Int, banned: Bool, replies: List(Comment)) }
